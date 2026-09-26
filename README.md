@@ -6,7 +6,7 @@
 <img src="assets/png/symbol-color/inoswap-symbol-color-200.png" width="96" alt="InoSwap symbol">
 </p>
 
-Official logo files for **InoSwap** — *Swap smarter. Not harder.* — [inoswap.org](https://inoswap.org).
+Official logo files for **InoSwap** — *Swap smarter* — [inoswap.org](https://inoswap.org).
 InoSwap is a brand of [Kcalb Ltd](https://kcalb-ltd.com), part of the KcalbApp ecosystem.
 
 ## Choose an asset
@@ -27,8 +27,8 @@ Direct links, for integrations: `https://raw.githubusercontent.com/Kcalb-Ltd/ino
 
 | Color | Hex | Use |
 |---|---|---|
-| InoSwap | `#E64392` | background of the icon, symbol on light backgrounds |
-| Shadow | `#611C3D` | drop shadow under the symbol only |
+| InoSwap | `#EC4C9B` | background of the icon, symbol on light backgrounds |
+| Shadow | `#632041` | drop shadow under the symbol only |
 | White | `#FFFFFF` | symbol on the brand color or on dark backgrounds |
 
 The icon is a flat brand color with a white symbol and a soft drop shadow toward the lower right. The mark itself never uses gradients.
@@ -50,9 +50,9 @@ The icon is a flat brand color with a white symbol and a soft drop shadow toward
 | Brand | Assets | Website |
 |---|---|---|
 | InoPulse | [`Kcalb-Ltd/inopulse-brand`](https://github.com/Kcalb-Ltd/inopulse-brand) | [inopulse.org](https://inopulse.org) |
-| Crypto-Only | [`Kcalb-Ltd/crypto-only-brand`](https://github.com/Kcalb-Ltd/crypto-only-brand) | [crypto-only.org](https://crypto-only.org) |
+| Crypto Only | [`Kcalb-Ltd/crypto-only-brand`](https://github.com/Kcalb-Ltd/crypto-only-brand) | [crypto-only.org](https://crypto-only.org) |
 | KcalbApp | [`Kcalb-Ltd/kcalbapp-brand`](https://github.com/Kcalb-Ltd/kcalbapp-brand) | [kcalb-ltd.com](https://kcalb-ltd.com) |
-| StakeHolDrop | [`Kcalb-Ltd/stakeholdrop-brand`](https://github.com/Kcalb-Ltd/stakeholdrop-brand) | [stakeholdrop.com](https://stakeholdrop.com) |
+| Stake Only | [`Kcalb-Ltd/stakeholdrop-brand`](https://github.com/Kcalb-Ltd/stakeholdrop-brand) | [stakeholdrop.com](https://stakeholdrop.com) |
 | InoAi | [`Kcalb-Ltd/inoai-brand`](https://github.com/Kcalb-Ltd/inoai-brand) | [inoai.org](https://inoai.org) |
 | InoSwap | [`Kcalb-Ltd/inoswap-brand`](https://github.com/Kcalb-Ltd/inoswap-brand) | [inoswap.org](https://inoswap.org) |
 | InoPlace | [`Kcalb-Ltd/inoplace-brand`](https://github.com/Kcalb-Ltd/inoplace-brand) | [inoplace.org](https://inoplace.org) |

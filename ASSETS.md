@@ -1,8 +1,8 @@
 # Asset inventory
 
-Generated 24 September 2026. The [machine-readable manifest](asset-manifest.json) records byte lengths and SHA-256 identifiers; `scripts/verify-assets.py` checks them on every change.
+Generated 27 September 2026. The [machine-readable manifest](asset-manifest.json) records byte lengths and SHA-256 identifiers; `scripts/verify-assets.py` checks them on every change.
 
-Asset set SHA-256: `d54274f9f03a056be1ab253ffc7baff32b391d7b59e8f57e15f09057f6d374c7`
+Asset set SHA-256: `4ccd85f6ff10537f9aea8eeddfd4841e76f7a12c6af1b5a709b068b2733e2ee8`
 
 | File | Format | Size | Use |
 |---|---|---|---|

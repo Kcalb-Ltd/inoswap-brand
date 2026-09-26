@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "assetSourceRevision": "initial",
+  "assetSourceRevision": "2026-09-27",
   "license": "All rights reserved, Kcalb Ltd (see LICENSE)",
   "assets": [
     {
       "path": "assets/png/round/inoswap-round-1024.png",
-      "sha256": "a46b4f7f486c5d8a8f9239bd30f20b0b1e42fe5d2c94ba2b357f7bf1a637a538",
-      "bytes": 105407,
+      "sha256": "b90010b60edc4137d1984236e8f4cbb93274a440273dd726dea9c4f18a731ddc",
+      "bytes": 104478,
       "containerFormat": "PNG",
       "width": 1024,
       "height": 1024,
@@ -15,8 +15,8 @@
     },
     {
       "path": "assets/png/round/inoswap-round-200.png",
-      "sha256": "ee37e65cddf4e4d5937e2522d3916a11ce6fdd1e56f8a29b83134b013fb8b206",
-      "bytes": 13417,
+      "sha256": "9dbaff6d085fe937a7eca45fe2503219d0dee0a6dbb73099f075a00f03de5b09",
+      "bytes": 13482,
       "containerFormat": "PNG",
       "width": 200,
       "height": 200,
@@ -25,8 +25,8 @@
     },
     {
       "path": "assets/png/round/inoswap-round-3000.png",
-      "sha256": "66b440c595d3485be4c080b70ddd628161cd3211c234926712278def001e0014",
-      "bytes": 472946,
+      "sha256": "3468f6e774ee8009a057daf0a2c282f6e39c8a451717bfcaa9bcc824434835b5",
+      "bytes": 472695,
       "containerFormat": "PNG",
       "width": 3000,
       "height": 3000,
@@ -35,8 +35,8 @@
     },
     {
       "path": "assets/png/round/inoswap-round-32.png",
-      "sha256": "d413f8fe659ed43971e9d41ce591c0f50d576c22f5c47e3424ea906f585ddaba",
-      "bytes": 1467,
+      "sha256": "e029be24ade629c5dfbc0ca1157a3d4ba91989718886af233ccc041e6e796282",
+      "bytes": 1464,
       "containerFormat": "PNG",
       "width": 32,
       "height": 32,
@@ -45,8 +45,8 @@
     },
     {
       "path": "assets/png/round/inoswap-round-500.png",
-      "sha256": "b9bf5166d4fb9ba35b4b7073769c96d2684ffdc2f46bc98317891b7bb184a52a",
-      "bytes": 40559,
+      "sha256": "00cef3fd9b843571906d0ca45a34450d950f8e2c10f4c0fe14cddb9b5015e4e3",
+      "bytes": 40644,
       "containerFormat": "PNG",
       "width": 500,
       "height": 500,
@@ -55,8 +55,8 @@
     },
     {
       "path": "assets/png/square/inoswap-square-1024.png",
-      "sha256": "addd9173949ce8b8cb23243012e7dfce3eb82f628befad8537f45211ff2f2630",
-      "bytes": 91215,
+      "sha256": "7ad041cee9ae5932ff131b16280a778273ca6e4e42b1409c44d890f46b5c9384",
+      "bytes": 90468,
       "containerFormat": "PNG",
       "width": 1024,
       "height": 1024,
@@ -65,8 +65,8 @@
     },
     {
       "path": "assets/png/square/inoswap-square-200.png",
-      "sha256": "52f7f8cd796ea81ab4a474848e62ae7fdc8af8273fa100298f9e211d45e94659",
-      "bytes": 11001,
+      "sha256": "f56c2b286505959fad4ff8a8daa65afde9d718a22fd8281bf1bdaa2c8aa5a6d5",
+      "bytes": 11021,
       "containerFormat": "PNG",
       "width": 200,
       "height": 200,
@@ -75,8 +75,8 @@
     },
     {
       "path": "assets/png/square/inoswap-square-3000.png",
-      "sha256": "acd8cd36add9e8c79dadc6112028c3983927be5b9f54e723fcfab2e89258ce4c",
-      "bytes": 413085,
+      "sha256": "d4ed1eb09bd77162d8198d8941ebf504c0893dd4c6e23378753e621157f7af72",
+      "bytes": 413321,
       "containerFormat": "PNG",
       "width": 3000,
       "height": 3000,
@@ -85,8 +85,8 @@
     },
     {
       "path": "assets/png/square/inoswap-square-32.png",
-      "sha256": "ef53c74a604be679a1a658402a67b7ccd00f363e6f0e33bdeca7ac5488a0cdd5",
-      "bytes": 1188,
+      "sha256": "b2651dee4ee3665f1c435c58c538e418441a6c4c091bfaa9d29753011ef68168",
+      "bytes": 1196,
       "containerFormat": "PNG",
       "width": 32,
       "height": 32,
@@ -95,8 +95,8 @@
     },
     {
       "path": "assets/png/square/inoswap-square-500.png",
-      "sha256": "339070779e0580cc208a0f79663e07e36b265044fee5ffe3eeab326362181446",
-      "bytes": 33993,
+      "sha256": "6706f5a4b6946bd3630bc4be48371abd3b58382aa23574a0cf2362d9715f35db",
+      "bytes": 34162,
       "containerFormat": "PNG",
       "width": 500,
       "height": 500,
@@ -105,8 +105,8 @@
     },
     {
       "path": "assets/png/symbol-color/inoswap-symbol-color-1024.png",
-      "sha256": "d48d666a4f87094c12930eef925116616fa774a9ec623ccbb92164d79c0da25a",
-      "bytes": 35071,
+      "sha256": "5129be25233ba6a8cab59c2ae5ac59f4e488d96cf80ade0800e82977fd25afeb",
+      "bytes": 34924,
       "containerFormat": "PNG",
       "width": 1024,
       "height": 1024,
@@ -115,8 +115,8 @@
     },
     {
       "path": "assets/png/symbol-color/inoswap-symbol-color-200.png",
-      "sha256": "08a5090986f6078660099321cf563b09b913a9ec8053ee1b1d9c5decc20e05f1",
-      "bytes": 4479,
+      "sha256": "fd5a4f7932b56b3121ef161ca484f78a24f8afc3b54e0a23ff86a6c248c94f2b",
+      "bytes": 4559,
       "containerFormat": "PNG",
       "width": 200,
       "height": 200,
@@ -125,8 +125,8 @@
     },
     {
       "path": "assets/png/symbol-color/inoswap-symbol-color-3000.png",
-      "sha256": "4a3cfa64e48b7f1d3bdc26c56861da495b121f6e0e64ac626ee093a49bbcb377",
-      "bytes": 150773,
+      "sha256": "e5d5b4066c984a90b253360be5b1a7126bbdb992d163ad940b192f54cfdcc161",
+      "bytes": 150910,
       "containerFormat": "PNG",
       "width": 3000,
       "height": 3000,
@@ -135,8 +135,8 @@
     },
     {
       "path": "assets/png/symbol-color/inoswap-symbol-color-500.png",
-      "sha256": "91e90b293e8f52cdefc989547e438e4b07975220f48ced61f3f1ce34b5bab3c2",
-      "bytes": 13709,
+      "sha256": "8122b1808b733cb7b696a9eef0f56174be71134e3c8ebe5101847eb37baa3b1b",
+      "bytes": 13765,
       "containerFormat": "PNG",
       "width": 500,
       "height": 500,
@@ -185,7 +185,7 @@
     },
     {
       "path": "assets/svg/inoswap-round.svg",
-      "sha256": "cf0a4c11190ed9b251764e7d380ffea295a8ef2d076c68af5c767268d7f7953c",
+      "sha256": "e5c5fcb8af712255621f7cdce08df140a6b686d28e2aaeff2fda5f873b34ee35",
       "bytes": 1113,
       "containerFormat": "SVG",
       "width": 1024,
@@ -195,7 +195,7 @@
     },
     {
       "path": "assets/svg/inoswap-square.svg",
-      "sha256": "74f84e23d81aebfaca9af1517c778dc184397f8b5ddf711eaa1bc23abe1ff786",
+      "sha256": "4488d6854c4167fe12c1be416abee0b0ad0fd3f8fe3a3c5f136083d4bbeef2b8",
       "bytes": 1121,
       "containerFormat": "SVG",
       "width": 1024,
@@ -205,7 +205,7 @@
     },
     {
       "path": "assets/svg/inoswap-symbol-color.svg",
-      "sha256": "4e9fe3fb08b5e7d317b60db221071666210b9afc51716622031e53b57b442edd",
+      "sha256": "55d8305181ffc257aa0da9e4fc0c987e4608b1af56e3d5230c1e9a5449d56ee5",
       "bytes": 527,
       "containerFormat": "SVG",
       "width": 1024,
@@ -224,5 +224,5 @@
       "notes": "White symbol on transparent background, for dark or colored backgrounds (path-based vector, 1024 x 1024 viewBox)"
     }
   ],
-  "assetSetSha256": "d54274f9f03a056be1ab253ffc7baff32b391d7b59e8f57e15f09057f6d374c7"
+  "assetSetSha256": "4ccd85f6ff10537f9aea8eeddfd4841e76f7a12c6af1b5a709b068b2733e2ee8"
 }
